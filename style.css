@@ -1,0 +1,40 @@
+body
+{
+	background-color: #5E8DBE;
+}
+table
+{
+	margin: 0px auto;
+	margin-top: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	border: 1px solid #5E8DBE;
+	color: #1D344D;
+	background-color: #EEF6FD;
+	height: 270px;
+}
+td
+{
+
+	border-top: 1px solid #5E8DBE;
+	margin: 0px;
+	width: 160px;
+	height: 50px;
+	vertical-align: top;
+}
+input
+{
+	background-color: #B5CAE5;
+	color: #1D344D;	
+}
+#first,#second,#third
+{
+	border: 0px;
+}
+#last, div
+{
+	text-align: right;
+}
+div
+{
+	font-weight: bold;
+}

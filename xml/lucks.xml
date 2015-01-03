@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LUCKS>
+  <LUCK>
+    <LUCK_ID>1</LUCK_ID>
+    <LUCK_TEXT> щастлива любов </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>2</LUCK_ID>
+
+    <LUCK_TEXT> непоклатимо здраве </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>3</LUCK_ID>
+    <LUCK_TEXT> голям късмет </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>4</LUCK_ID>
+    <LUCK_TEXT> професионален успех </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>5</LUCK_ID>
+
+    <LUCK_TEXT> ново начало </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>6</LUCK_ID>
+    <LUCK_TEXT> приятна изненада в любовта </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>7</LUCK_ID>
+
+    <LUCK_TEXT> приятна изненада в работата </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>8</LUCK_ID>
+
+    <LUCK_TEXT> приятна изненада вкъщи </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>9</LUCK_ID>
+    <LUCK_TEXT> възстановяване на нещо разрушено </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>10</LUCK_ID>
+    <LUCK_TEXT> неочаквана радост </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>11</LUCK_ID>
+
+    <LUCK_TEXT> нова работа </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>12</LUCK_ID>
+
+    <LUCK_TEXT> щастлив брак </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>13</LUCK_ID>
+    <LUCK_TEXT> път в чужбина </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>14</LUCK_ID>
+
+    <LUCK_TEXT> спокойствие и хармония </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>15</LUCK_ID>
+    <LUCK_TEXT> нежност и подкрепа </LUCK_TEXT>
+
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>16</LUCK_ID>
+    <LUCK_TEXT> нова любов </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>17</LUCK_ID>
+
+    <LUCK_TEXT> изпълнено желание </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>18</LUCK_ID>
+    <LUCK_TEXT> нов дом </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>19</LUCK_ID>
+    <LUCK_TEXT> нов член в семейството </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>20</LUCK_ID>
+
+    <LUCK_TEXT> пътуване с любим човек </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>21</LUCK_ID>
+    <LUCK_TEXT> щастлив обрат </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>22</LUCK_ID>
+
+    <LUCK_TEXT> духовно просветление </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>23</LUCK_ID>
+
+    <LUCK_TEXT> чудеса </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>24</LUCK_ID>
+    <LUCK_TEXT> нов приятел за цял живот </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>25</LUCK_ID>
+    <LUCK_TEXT> преоткриване на любов </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>26</LUCK_ID>
+
+    <LUCK_TEXT> щастливо разрешаване на проблем </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>27</LUCK_ID>
+
+    <LUCK_TEXT> преодоляване на конфликт </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>28</LUCK_ID>
+    <LUCK_TEXT> мир със себе си </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>29</LUCK_ID>
+
+    <LUCK_TEXT> секс </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>30</LUCK_ID>
+    <LUCK_TEXT> флиртове </LUCK_TEXT>
+
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>31</LUCK_ID>
+    <LUCK_TEXT> красива </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>32</LUCK_ID>
+
+    <LUCK_TEXT> нежна </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>33</LUCK_ID>
+    <LUCK_TEXT> поучителна </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>34</LUCK_ID>
+    <LUCK_TEXT> любовна </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>35</LUCK_ID>
+
+    <LUCK_TEXT> радостна </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>36</LUCK_ID>
+    <LUCK_TEXT> успешна </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>37</LUCK_ID>
+
+    <LUCK_TEXT> уютна </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>38</LUCK_ID>
+
+    <LUCK_TEXT> неочаквана </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>39</LUCK_ID>
+    <LUCK_TEXT> мечтана </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>40</LUCK_ID>
+    <LUCK_TEXT> гальовна </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>41</LUCK_ID>
+
+    <LUCK_TEXT> приятелска </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>42</LUCK_ID>
+
+    <LUCK_TEXT> щура </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>43</LUCK_ID>
+    <LUCK_TEXT> игрива </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>44</LUCK_ID>
+
+    <LUCK_TEXT> късметлийска </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>45</LUCK_ID>
+    <LUCK_TEXT> весела </LUCK_TEXT>
+
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>46</LUCK_ID>
+    <LUCK_TEXT> здрава </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>47</LUCK_ID>
+
+    <LUCK_TEXT> стабилна </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>48</LUCK_ID>
+    <LUCK_TEXT> незабравима </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>49</LUCK_ID>
+    <LUCK_TEXT> авантюристична </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>50</LUCK_ID>
+
+    <LUCK_TEXT> очарователна </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>51</LUCK_ID>
+    <LUCK_TEXT> вдъхновяваща </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>52</LUCK_ID>
+
+    <LUCK_TEXT> творческа </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>53</LUCK_ID>
+
+    <LUCK_TEXT> необикновена </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>54</LUCK_ID>
+    <LUCK_TEXT> вълшебна </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>55</LUCK_ID>
+    <LUCK_TEXT> влюбена </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>56</LUCK_ID>
+
+    <LUCK_TEXT> домошарска </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>57</LUCK_ID>
+
+    <LUCK_TEXT> трудолюбива </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>58</LUCK_ID>
+    <LUCK_TEXT> новаторска </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>59</LUCK_ID>
+
+    <LUCK_TEXT> дръзка </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>60</LUCK_ID>
+    <LUCK_TEXT> предприемчива </LUCK_TEXT>
+
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>61</LUCK_ID>
+    <LUCK_TEXT> любовчийска </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>62</LUCK_ID>
+
+    <LUCK_TEXT> дружелюбна </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>63</LUCK_ID>
+    <LUCK_TEXT> еротична </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>64</LUCK_ID>
+    <LUCK_TEXT> божествена </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>65</LUCK_ID>
+
+    <LUCK_TEXT> сексуална </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>66</LUCK_ID>
+    <LUCK_TEXT> свръхестествена </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>67</LUCK_ID>
+
+    <LUCK_TEXT> разточителна </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>68</LUCK_ID>
+
+    <LUCK_TEXT> богата </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>69</LUCK_ID>
+    <LUCK_TEXT> преобразяваща </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>70</LUCK_ID>
+    <LUCK_TEXT> просветляваща </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>71</LUCK_ID>
+
+    <LUCK_TEXT> преоткриваща </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>72</LUCK_ID>
+
+    <LUCK_TEXT> безгрижна </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>73</LUCK_ID>
+    <LUCK_TEXT> лекомислена </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>74</LUCK_ID>
+
+    <LUCK_TEXT> съзерцателна </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>75</LUCK_ID>
+    <LUCK_TEXT> мъдра </LUCK_TEXT>
+
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>76</LUCK_ID>
+    <LUCK_TEXT> уравновесена </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>77</LUCK_ID>
+
+    <LUCK_TEXT> преходна </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>78</LUCK_ID>
+    <LUCK_TEXT> предчувствана </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>79</LUCK_ID>
+    <LUCK_TEXT> магическа </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>80</LUCK_ID>
+
+    <LUCK_TEXT> щедра </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>81</LUCK_ID>
+    <LUCK_TEXT> възторжена </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>82</LUCK_ID>
+
+    <LUCK_TEXT> неописуема </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>83</LUCK_ID>
+
+    <LUCK_TEXT> различна </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>84</LUCK_ID>
+    <LUCK_TEXT> празнична </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>85</LUCK_ID>
+    <LUCK_TEXT> спокойна </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>86</LUCK_ID>
+
+    <LUCK_TEXT> заплесната </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>87</LUCK_ID>
+
+    <LUCK_TEXT> изненадваща </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>88</LUCK_ID>
+    <LUCK_TEXT> справедлива </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>89</LUCK_ID>
+
+    <LUCK_TEXT> лековита </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>90</LUCK_ID>
+    <LUCK_TEXT> мирна</LUCK_TEXT>
+
+  </LUCK>
+<LUCK>
+    <LUCK_ID>91</LUCK_ID>
+    <LUCK_TEXT> Нова любов ще те свари неподготвен/а. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>92</LUCK_ID>
+
+    <LUCK_TEXT> Нов домашен любимец (бозайник). </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>93</LUCK_ID>
+    <LUCK_TEXT> В офиса ще те оценят и все още няма да е късно. </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>94</LUCK_ID>
+    <LUCK_TEXT> Еротично приключение с красив/а непознат/а, за което после дълго ще разказваш. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>95</LUCK_ID>
+    <LUCK_TEXT> На улицата ще намериш нещо лъскаво, което ще се окаже златна паричка. </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>96</LUCK_ID>
+    <LUCK_TEXT> Среща на випуска ви, на която ще стане ясно, че страхотно младееш на фона на останалите.</LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>97</LUCK_ID>
+
+    <LUCK_TEXT> Ще срещнеш нова любов в асансьора. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>98</LUCK_ID>
+    <LUCK_TEXT> Ще пропишеш стихове.</LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>99</LUCK_ID>
+    <LUCK_TEXT> Флирт с висшестоящ/а - без последици. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>100</LUCK_ID>
+    <LUCK_TEXT> Цената на ЛАН интернета във вашия квартал ще падне. </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>101</LUCK_ID>
+    <LUCK_TEXT> Ще получиш номинация за Мъж/Жена на годината. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>102</LUCK_ID>
+
+    <LUCK_TEXT> Добро наследство, на което не си се надявал/а. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>103</LUCK_ID>
+    <LUCK_TEXT> Ще видиш НЛО и ще пишат за теб в пресата. </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>104</LUCK_ID>
+    <LUCK_TEXT> В интернет ще прочетеш статия, която ще промени живота ти. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>105</LUCK_ID>
+    <LUCK_TEXT> Нов член в семейството (с неуточнен произход). </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>106</LUCK_ID>
+    <LUCK_TEXT> Нов източник на (необлагаеми) доходи. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>107</LUCK_ID>
+
+    <LUCK_TEXT> Бивш/а любим/а ще те потърси и ще разпали неугаснали чувства. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>108</LUCK_ID>
+    <LUCK_TEXT> Ще те осени просветление. </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>109</LUCK_ID>
+    <LUCK_TEXT> Ще ти върнат взети назаем пари, които си отписал/а. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>110</LUCK_ID>
+    <LUCK_TEXT> Ще се влюбиш по време на път (може и на път за работа). </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>111</LUCK_ID>
+    <LUCK_TEXT> С гаджето ти ще откриете нова поза и ще се прочуете. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>112</LUCK_ID>
+
+    <LUCK_TEXT> Ще станеш герой в 'Море от любов'. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>113</LUCK_ID>
+    <LUCK_TEXT> За св. Валентин ще получиш изненада, която ще помниш дълго. </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>114</LUCK_ID>
+    <LUCK_TEXT> Когато се събудиш на 1 януари, си намисли желание. Ще се сбъдне. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>115</LUCK_ID>
+    <LUCK_TEXT> Ще си здрав/а през цялата година, дори по време на грипни епидемии. </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>116</LUCK_ID>
+    <LUCK_TEXT> Ще научиш тайна, която отдавна си искал/а да узнаеш.</LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>117</LUCK_ID>
+
+    <LUCK_TEXT> Ремонтът вкъщи ще ти излезе два пъти по-евтино от очакваното. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>118</LUCK_ID>
+    <LUCK_TEXT> Ще израснеш духовно. </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>119</LUCK_ID>
+    <LUCK_TEXT> Банката ще ти опрости кредита, защото ще се окаже, че си двумилионният й клиент. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>120</LUCK_ID>
+    <LUCK_TEXT> Ще свалиш излишните килограми без да страдаш. </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>121</LUCK_ID>
+    <LUCK_TEXT> Хубавите ти сънища ще се сбъдват, а от лошите ще се будиш навреме. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>122</LUCK_ID>
+
+    <LUCK_TEXT> Ще се научиш да плетеш на 1 кука.</LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>123</LUCK_ID>
+    <LUCK_TEXT> Ще те изберат за домоуправител/ка. </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>124</LUCK_ID>
+    <LUCK_TEXT> Ще напишеш книга. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>125</LUCK_ID>
+    <LUCK_TEXT> Ще ти подарят котка. </LUCK_TEXT>
+
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>126</LUCK_ID>
+    <LUCK_TEXT> Ще се сдобиеш с нови приятели. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>127</LUCK_ID>
+
+    <LUCK_TEXT> Ще развиеш паранормални способности. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>128</LUCK_ID>
+    <LUCK_TEXT> Ще се кандидатираш за президент, от което нищо няма да излезе, но ще запомниш годината. </LUCK_TEXT>
+  </LUCK>
+
+  <LUCK>
+    <LUCK_ID>129</LUCK_ID>
+    <LUCK_TEXT> Ще се снимаш в Плейбой и родителите ти няма да разберат. </LUCK_TEXT>
+  </LUCK>
+  <LUCK>
+    <LUCK_ID>130</LUCK_ID>
+    <LUCK_TEXT> Ще намериш себе си (каквото и да означава това). </LUCK_TEXT>
+
+  </LUCK>
+</LUCKS>

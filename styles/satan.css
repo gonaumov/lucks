@@ -1,0 +1,61 @@
+body
+{
+	color: #FF0000;
+	background-color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+}
+input 
+{
+	color: #000000;
+	background-color: #FF0000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+td 
+{
+	border: 1px solid red;
+	text-align: center;
+}
+#langchanger {
+  text-align: left;
+  position: absolute;
+  top: 13px;
+  left: 13px;
+}
+#langchanger a:link {
+	color: #FF0000;
+}     
+#langchanger a:visited {
+  color: #FF0000;
+}  
+#langchanger a:hover {
+	color: #FF0000;
+}   
+#langchanger a:active {
+	color: #FF0000;
+}  
+.satanholder {
+	height: 390px;
+	position: relative;
+	text-align: center;	
+}
+.satanholdergen {
+	background: url('../pent.jpg'); 
+	background-position: center; 
+	background-repeat: no-repeat;
+	height: 390px;
+	position: relative;
+	text-align: center;
+}
+.satanholdergen  img{
+	display: none;
+}
+#chars_div{
+	z-index: 10; 
+	position: absolute;
+	top: 190px;
+	left: 47%;
+	font-size: 30px
+}
